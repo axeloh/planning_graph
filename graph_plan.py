@@ -14,14 +14,16 @@ iCond = [brushClean, rollerClean, picturesHanging]
 goals = [mouldingsPainted, wallPainted, picturesHanging]
 
 # Actions
-def brushPaintMouldings(conditions):
-    if 
+actions = []
+def initializeActions():
+    
 
-def graph_plan(initial_state, goals, action):
+
+def graphPlan(initialState, goals, actions):
         """
-        :param initial_state: 
+        :param initialState: 
         :param goals: 
-        :param action: 
+        :param actions: 
         :return: 
         """
 
