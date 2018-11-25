@@ -30,10 +30,7 @@ class Action(object):
             Returns true if all the precondition of the action
             are in the propositions list
             """
-        for pre in self.pre:
-            if pre not in props:
-                return False
-        return True
+        return len(filter(lambda p: p in props, self.props)) > 0
 
     def __str__(self):
         return self.name
