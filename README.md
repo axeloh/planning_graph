@@ -11,4 +11,6 @@ mouldings, it is covered in paint of that color and cannot be used to paint the 
 want different colors for the wall and the mouldings). There are pictures hanging on the wall that must be
 removed before the wall can be painted—but the job is not done until these pictures are back on the wall.
 
+Propositions and actions:
 
+![](https://i.imgur.com/WYVpIC7.png)
