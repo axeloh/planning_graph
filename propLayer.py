@@ -45,5 +45,5 @@ class PropositionLayer(object):
                     return False
         return True
 
-    
+
 

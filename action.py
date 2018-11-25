@@ -27,9 +27,9 @@ class Action(object):
 
     def allPrecondsInList(self, props):
         """
-            Returns true if all the precondition of the action
-            are in the propositions list
-            """
+        Returns true if all the precondition of the action
+        are in the propositions list
+        """
         return len(filter(lambda p: p in props, self.props)) > 0
 
     def __str__(self):
