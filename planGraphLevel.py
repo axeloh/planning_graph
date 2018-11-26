@@ -12,7 +12,7 @@ class PlanGraphLevel(object):
         self.actionLayer = ActionLayer()
         self.propositionLayer = PropositionLayer()
 
-    
+
     def updateActionLayer(self, prevPropLayer):
         """ 
         Updates the action layer given the previous proposition layer (see propositionLayer.py)
